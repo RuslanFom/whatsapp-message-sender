@@ -15,7 +15,7 @@ $whatsapp-sender/
 ├── clients.xlsx
 ├── requirements.txt
 └── venv/
----
+```
 
 ## 🚀 Funzionalità
 
