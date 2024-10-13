@@ -10,11 +10,11 @@ Questo progetto automatizza l'invio di messaggi WhatsApp a una lista di clienti 
 ```
 $whatsapp-sender/
 │
-├── # app.py
-├── # config.py
-├── # clients.xlsx
-├── # requirements.txt
-└── # venv/
+├── app.py
+├── config.py
+├── clients.xlsx
+├── requirements.txt
+└── venv/
 ---
 
 ## 🚀 Funzionalità
