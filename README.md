@@ -7,14 +7,15 @@ Questo progetto automatizza l'invio di messaggi WhatsApp a una lista di clienti 
 
 ## 📁 Struttura del Progetto
 
-whatsapp-sender/
+```
+$whatsapp-sender/
 │
 ├── app.py
 ├── config.py
 ├── clients.xlsx
 ├── requirements.txt
 └── venv/
-
+```
 
 ## 🚀 Funzionalità
 
@@ -27,7 +28,7 @@ whatsapp-sender/
 
 1. Clona il repository:
    ```
-   git clone https://github.com/tuousername/whatsapp-sender.git
+   git clone https://github.com/RuslanFom/whatsapp-message-sender.git
    ```
 
 2. Entra nella directory del progetto:
